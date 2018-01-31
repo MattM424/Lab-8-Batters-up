@@ -1,0 +1,7 @@
+c:\users\ginge\source\repos\Lab 8 Batters Up\Lab 8 Batters Up\obj\Debug\Lab 8 Batters Up.csprojResolveAssemblyReference.cache
+c:\users\ginge\source\repos\Lab 8 Batters Up\Lab 8 Batters Up\obj\Debug\Lab 8 Batters Up.csproj.CoreCompileInputs.cache
+c:\users\ginge\source\repos\Lab 8 Batters Up\Lab 8 Batters Up\bin\Debug\Lab 8 Batters Up.exe.config
+c:\users\ginge\source\repos\Lab 8 Batters Up\Lab 8 Batters Up\bin\Debug\Lab 8 Batters Up.exe
+c:\users\ginge\source\repos\Lab 8 Batters Up\Lab 8 Batters Up\bin\Debug\Lab 8 Batters Up.pdb
+c:\users\ginge\source\repos\Lab 8 Batters Up\Lab 8 Batters Up\obj\Debug\Lab 8 Batters Up.exe
+c:\users\ginge\source\repos\Lab 8 Batters Up\Lab 8 Batters Up\obj\Debug\Lab 8 Batters Up.pdb
